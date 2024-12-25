@@ -197,7 +197,7 @@ MIT
 
 ## Author
 
-[Your Name]
+opermanus
 
 ## Support
 
